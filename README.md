@@ -70,6 +70,11 @@ http://localhost:8080
 * Export Reports
 * Deleted Transaction History
 * Budget Alerts
+## Demo Video
+
+Loom Recording:
+
+https://www.loom.com/share/0b7d004292624e2180b984c5c3f8852f
 
 ## Author
 
