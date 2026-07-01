@@ -122,19 +122,19 @@ http://localhost:8080
 
 ### Add Transaction
 
-![Add Transaction](Screenshorts/Add_transaction.jpg)
+![Add Transaction](Screenshots/Add_transaction.jpg)
 
 ### Transactions List
 
-![Transactions List](Screenshorts/Transactions_list.jpg)
+![Transactions List](Screenshots/Transactions_list.jpg)
 
 ### Dashboard
 
-![Dashboard](Screenshorts/Dashboard.jpg)
+![Dashboard](Screenshots/Dashboard.jpg)
 
 ### Pie Chart
 
-![Pie Chart](Screenshorts/Pie_Chart.jpg)
+![Pie Chart](Screenshots/Pie_Chart.jpg)
 
 ---
 
