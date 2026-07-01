@@ -118,23 +118,23 @@ http://localhost:8080
 
 ### Home Page
 
-![Home Page](screenshots/Home_Page.jpg)
+![Home Page](Screenshorts/Home_Page.jpg)
 
 ### Add Transaction
 
-![Add Transaction](screenshots/Add_transaction.jpg)
+![Add Transaction](Screenshorts/Add_transaction.jpg)
 
 ### Transactions List
 
-![Transactions List](screenshots/Transactions_list.jpg)
+![Transactions List](Screenshorts/Transactions_list.jpg)
 
 ### Dashboard
 
-![Dashboard](screenshots/Dashboard.jpg)
+![Dashboard](Screenshorts/Dashboard.jpg)
 
 ### Pie Chart
 
-![Pie Chart](screenshots/Pie_Chart.jpg)
+![Pie Chart](Screenshorts/Pie_Chart.jpg)
 
 ---
 
