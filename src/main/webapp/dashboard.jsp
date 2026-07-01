@@ -11,15 +11,35 @@
 
 </head>
 <body>
-
-<nav class="navbar navbar-dark bg-primary">
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <div class="container-fluid">
-        <span class="navbar-brand">
+
+        <a class="navbar-brand" href="/">
             Personal Budget Tracker
-        </span>
+        </a>
+
+        <div class="navbar-nav">
+
+            <a class="nav-link text-white" href="/">
+                Home
+            </a>
+
+            <a class="nav-link text-white" href="/dashboard">
+                Dashboard
+            </a>
+
+            <a class="nav-link text-white" href="/add">
+                Add Transaction
+            </a>
+
+            <a class="nav-link text-white" href="/list">
+                Transactions
+            </a>
+
+        </div>
+
     </div>
 </nav>
-
 <div class="container mt-5">
 
     <h2 class="mb-4">Budget Dashboard</h2>

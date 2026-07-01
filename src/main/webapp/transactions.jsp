@@ -21,9 +21,19 @@
 
 <div class="container mt-4">
 
-    <div class="d-flex justify-content-between mb-3">
+   <div class="d-flex justify-content-between align-items-center mb-3">
 
-        <h2>All Transactions</h2>
+    <h2>All Transactions</h2>
+
+    <div>
+
+        <a href="/" class="btn btn-secondary me-2">
+            Home
+        </a>
+
+        <a href="/dashboard" class="btn btn-primary me-2">
+            Dashboard
+        </a>
 
         <a href="/add" class="btn btn-success">
             Add Transaction
@@ -31,6 +41,7 @@
 
     </div>
 
+</div>
     <div class="card shadow">
 
         <div class="card-body">
